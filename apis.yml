@@ -1,0 +1,43 @@
+name: Equitable
+description: >-
+  Equitable Holdings, Inc. is a financial services holding company offering
+  individual retirement, group retirement, life insurance, and employee benefits
+  solutions. Equitable has launched API capabilities for benefits plan setup
+  integration, partnering with platforms like Employee Navigator.
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://github.com/api-evangelist/equitable/blob/main/apis.yml
+created: '2025-03-01'
+modified: '2025-03-01'
+specificationVersion: '0.18'
+tags:
+  - Insurance
+  - Financial Services
+  - Benefits
+  - Retirement
+apis:
+  - name: Equitable Benefits Plan Setup API
+    description: >-
+      API capability that acts as a digital bridge between systems, enabling
+      automatic creation and configuration of employee benefits plans for small
+      and medium-sized businesses. Integrated with Employee Navigator to
+      streamline group and product setup for brokers.
+    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    humanURL: https://equitable.com/newsroom/2025/equitable-launches-new-API-capability-to-simplify-benefits-plan-setup
+    baseURL: https://api.equitable.com
+    tags:
+      - Benefits
+      - Insurance
+      - Employee Benefits
+      - Plan Setup
+    properties:
+      - type: Documentation
+        url: https://equitable.com/newsroom/2025/equitable-launches-new-API-capability-to-simplify-benefits-plan-setup
+common:
+  - type: Website
+    url: https://equitable.com/
+  - type: Technical Support
+    url: https://equitable.com/support/technical-support
+maintainers:
+  - FN: API Evangelist
+    url: https://apievangelist.com
+    email: info@apievangelist.com
