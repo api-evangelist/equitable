@@ -10,9 +10,9 @@ created: '2025-03-01'
 modified: '2025-03-01'
 specificationVersion: '0.18'
 tags:
-  - Insurance
-  - Financial Services
   - Benefits
+  - Financial Services
+  - Insurance
   - Retirement
 apis:
   - name: Equitable Benefits Plan Setup API
@@ -26,8 +26,8 @@ apis:
     baseURL: https://api.equitable.com
     tags:
       - Benefits
-      - Insurance
       - Employee Benefits
+      - Insurance
       - Plan Setup
     properties:
       - type: Documentation
