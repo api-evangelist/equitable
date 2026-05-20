@@ -50,6 +50,10 @@ apis:
         url: >-
           https://equitable.com/newsroom/2025/equitable-launches-new-API-capability-to-simplify-benefits-plan-setup
 common:
+  - type: GitHubOrganization
+    url: https://github.com/Equitable
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/equitable-financial
   - type: Website
     url: https://equitable.com/
   - type: Technical Support
