@@ -6,7 +6,7 @@ description: >-
   benefits solutions. In 2025, Equitable launched API capabilities for
   benefits plan setup integration, partnering with platforms such as Employee
   Navigator to streamline broker workflows.
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/equitable/refs/heads/main/apis.yml
 created: '2025-03-01'
@@ -36,7 +36,7 @@ apis:
     humanURL: >-
       https://equitable.com/newsroom/2025/equitable-launches-new-API-capability-to-simplify-benefits-plan-setup
     baseURL: https://api.equitable.com
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     tags:
       - Benefits
       - Employee Benefits
