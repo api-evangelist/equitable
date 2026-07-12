@@ -50,6 +50,8 @@ apis:
         url: >-
           https://equitable.com/newsroom/2025/equitable-launches-new-API-capability-to-simplify-benefits-plan-setup
 common:
+  - type: DomainSecurity
+    url: security/equitable-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/Equitable
   - type: LinkedIn
