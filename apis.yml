@@ -6,6 +6,17 @@ description: >-
   benefits solutions. In 2025, Equitable launched API capabilities for
   benefits plan setup integration, partnering with platforms such as Employee
   Navigator to streamline broker workflows.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
