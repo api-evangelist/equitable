@@ -36,7 +36,7 @@ created: '2025-03-01'
 modified: '2026-07-25'
 specificationVersion: '0.23'
 type: Index
-position: Consumer
+position: Consuming
 access: 3rd-Party
 tags:
   - Benefits
