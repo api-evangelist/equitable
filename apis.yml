@@ -40,7 +40,7 @@ position: Consuming
 access: 3rd-Party
 tags:
   - Benefits
-  - Financial-Services
+  - Financial Services
   - Insurance
   - Retirement
   - Employee Benefits
@@ -50,6 +50,7 @@ tags_raw:
   - Insurance
   - Retirement
   - Employee Benefits
+  - Financial-Services
 apis:
   - aid: equitable:benefits-plan-setup
     name: Equitable Benefits Plan Setup API
