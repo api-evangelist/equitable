@@ -80,6 +80,12 @@ apis:
         url: >-
           https://equitable.com/newsroom/2025/equitable-launches-new-API-capability-to-simplify-benefits-plan-setup
 common:
+  - type: Plans
+    url: plans/equitable-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/equitable-rate-limits.yml
+  - type: FinOps
+    url: finops/equitable-finops.yml
   - type: DomainSecurity
     url: security/equitable-domain-security.yml
   - type: GitHubOrganization
